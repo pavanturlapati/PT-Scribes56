@@ -1,1 +1,13 @@
-
+[
+    {
+      "task": "Create and save personal Java - Cucumber framework in Git",
+      "status": "In Progress",
+      "percentage": 30
+    },
+    {
+      "task": "Another task",
+      "status": "Not Started",
+      "percentage": 0
+    }
+  ]
+  
